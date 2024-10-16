@@ -29,6 +29,9 @@ function App() {
         <h2 className="heading2">
             Это каунтер
         </h2>
+        <div className="cooper">
+            <button>click</button>
+        </div>
 
     </div>
   );
